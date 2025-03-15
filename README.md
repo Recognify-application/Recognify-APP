@@ -15,6 +15,6 @@ Unlike traditional mental health tools, Recognify does not diagnose or impose pr
 
 Recognify is not about **therapy**—it’s about **understanding yourself**. Whether for **personal insight, decision-making refinement, or intellectual curiosity**, Recognify offers an **interactive, exploratory, and insightful AI experience**.  
 
-Stay tuned for more updates on our development journey! 🚀  
+Stay tuned for more updates on our development journey! 🚀  All the official releases will be delivered here. 
 
-Would you like this as a **GitHub README.md** file? 📌
+
